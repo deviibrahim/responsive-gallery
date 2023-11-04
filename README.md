@@ -2,9 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installation and run process
 
-In the project directory, you can run:
+First Clone the repository:
+
+### `git clone https://github.com/deviibrahim/responsive-gallery.git`
+
+Go to  project directory and install all dependencies:
+
+### `npm install`
+
+To run the project :
 
 ### `npm start`
 
